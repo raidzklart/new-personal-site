@@ -1,0 +1,5 @@
+I"v<p style="line-height: 2;" class="h6 text-muted">A tool for testing a Mac’s Wifi speed directly from the Mac menu bar. I built
+it using the <a href="https://github.com/maxogden/menubar" class="text-danger">Menubar module for electron</a>. 
+For the landing page I used <a href="https://getbootstrap.com/" class="text-danger">Bootstrap 4</a> along with some
+custom CSS.</p>
+:ET
