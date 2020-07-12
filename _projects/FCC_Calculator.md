@@ -1,6 +1,6 @@
 ---
 title: Free Code Camp Calculator
-url: https://raidzklart.github.io/fcc-calculator/
+uri: https://raidzklart.github.io/fcc-calculator/
 position: 5
 ---
 

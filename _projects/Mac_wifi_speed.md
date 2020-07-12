@@ -1,6 +1,6 @@
 ---
 title: Mac Wifi Speed
-url: https://macwifispeed.com/
+uri: https://macwifispeed.com/
 position: 6
 ---
 

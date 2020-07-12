@@ -1,6 +1,6 @@
 ---
 title: Free Code Camp Markdown Previewer
-url: https://raidzklart.github.io/fcc-markdown-previewer/
+uri: https://raidzklart.github.io/fcc-markdown-previewer/
 position: 3
 ---
 

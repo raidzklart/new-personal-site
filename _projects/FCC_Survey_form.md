@@ -1,6 +1,6 @@
 ---
 title: Free Code Camp Survey Form
-url: https://raidzklart.github.io/FCC-Build-a-Survey-Form/
+uri: https://raidzklart.github.io/FCC-Build-a-Survey-Form/
 position: 1
 ---
 
