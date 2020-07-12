@@ -1,6 +1,6 @@
 ---
 title: Free Code Camp Pomodoro Clock
-url: https://raidzklart.github.io/FCC-Pomodoro-Clock/
+uri: https://raidzklart.github.io/FCC-Pomodoro-Clock/
 position: 4
 ---
 

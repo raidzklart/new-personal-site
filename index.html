@@ -7,7 +7,7 @@ layout: default
   {% for project in projects limit:5 %}
 
   <h5 class="pt-4">
-    <a href="{{ project.url }}" target="_blank" class="text-reset">{{ project.title }} <i class="fas fa-external-link-alt"></i></a> 
+    <a href="{{ project.uri }}" target="_blank" class="text-reset">{{ project.title }} <i class="fas fa-external-link-alt"></i></a> 
   </h5>
   <p>{{ project.content | markdownify }}</p>
   <hr>

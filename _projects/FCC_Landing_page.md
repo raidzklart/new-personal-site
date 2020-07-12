@@ -1,6 +1,6 @@
 ---
 title: Free Code Camp Landing Page
-url: https://raidzklart.github.io/FCC-landing-page/
+uri: https://raidzklart.github.io/FCC-landing-page/
 position: 2
 ---
 
